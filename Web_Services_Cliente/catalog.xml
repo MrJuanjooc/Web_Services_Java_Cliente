@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Web_Services/Volumen?wsdl" uri="src/conf/xml-resources/web-service-references/Volumen/wsdl/localhost_8080/Web_Services/Volumen.wsdl"/>
+    <system systemId="http://localhost:8080/Web_Services/Volumen?xsd=1" uri="src/conf/xml-resources/web-service-references/Volumen/wsdl/localhost_8080/Web_Services/Volumen.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Web_Services/Volumen_Esfera?wsdl" uri="src/conf/xml-resources/web-service-references/Volumen_Esfera/wsdl/localhost_8080/Web_Services/Volumen_Esfera.wsdl"/>
+    <system systemId="http://localhost:8080/Web_Services/Volumen_Esfera?xsd=1" uri="src/conf/xml-resources/web-service-references/Volumen_Esfera/wsdl/localhost_8080/Web_Services/Volumen_Esfera.xsd_1.xsd"/>
+</catalog>
